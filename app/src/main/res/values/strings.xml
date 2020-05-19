@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FingerPrintAuthentication</string>
+    <string name="operation_cancelled_by_user">Operation cancelled by user</string>
+    <string name="dismiss">Not Recognized</string>
+    <string name="recognized">Recognized</string>
+    <string name="invalid">Biometric is valid but not recognized.</string>
+    <string name="login">Login</string>
+    <string name="authenticate">Authenticate</string>
+</resources>
